@@ -34,12 +34,12 @@ This project demonstrates a real-world, scalable **end-to-end data pipeline** us
 
 ## 🚀 Features
 
-- ✅ **Medallion Architecture**: Bronze → Silver → Gold layers  
-- ✅ **Incremental Data Loads** using ADF & watermarking  
-- ✅ **Data transformation** using PySpark in Databricks  
-- ✅ **Fact-Dimension modeling** in Azure SQL  
-- ✅ **Fully interactive Power BI dashboards**  
-- ✅ **CI/CD ready architecture** for future enhancements  
+-  **Medallion Architecture**: Bronze → Silver → Gold layers  
+-  **Incremental Data Loads** using ADF & watermarking  
+-  **Data transformation** using PySpark in Databricks  
+-  **Fact-Dimension modeling** in Azure SQL  
+-  **Fully interactive Power BI dashboards**  
+-  **CI/CD ready architecture** for future enhancements  
 
 
 
